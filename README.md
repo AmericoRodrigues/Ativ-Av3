@@ -1,5 +1,5 @@
 # Ativ-Av3
-#Americo Rodrigues , Cleudayanne Ketlem Janaina Cardoso
+#Americo Rodrigues , Cleudayanne Ketlem
 =======================================
 
 .
